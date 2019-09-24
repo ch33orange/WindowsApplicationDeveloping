@@ -1,2 +1,2 @@
 # testing
-learn C/C++
+practising develop an application.
